@@ -1,4 +1,4 @@
-from pip.req import parse_requirements
+from pip._internal.req import parse_requirements
 import setuptools
 
 with open('README.rst') as f:
